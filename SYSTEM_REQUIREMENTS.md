@@ -50,7 +50,9 @@ This course requires the following setup:
 
 \- \[GitHub Desktop](https://desktop.github.com/)
 
-\- `llm`
+
+
+\- \[`llm`] (https://llm.datasette.io/en/stable/)
 
 \- \[Lynx](https://lynx.invisible-island.net/)
 
@@ -64,13 +66,17 @@ This course requires the following setup:
 
 \- \[Pandoc](https://pandoc.org/)
 
-\- `pdftotext`
+
+
+\- \[`pdftotext`](https://www.xpdfreader.com/pdftotext-man.html)
 
 \- \[Playwright](https://playwright.dev/)
 
 \- \[QGIS](https://qgis.org/)
 
-\- `sqlite-utils`
+
+
+\- \[`sqlite-utils`](https://sqlite-utils.datasette.io/en/stable/)
 
 \- \[SQLiteStudio](https://sqlitestudio.pl/)
 
@@ -78,11 +84,13 @@ This course requires the following setup:
 
 \- \[w3m](http://w3m.sourceforge.net/)
 
-\- `wget`
 
-\- \[Whisper](https://openai.com/research/whisper)
 
-\- \[yt-dlp](https://github.com/yt-dlp/yt-dlp)
+\- \[`wget`](https://www.gnu.org/software/wget/)
+
+\- \[Whisper](https://openai.com/research/whisper)(https://github.com/Purfview/whisper-standalone-win/releases)
+
+\- \[yt-dlp](https://github.com/yt-dlp/yt-dlp)(https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp)
 
 
 
