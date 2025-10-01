@@ -26,7 +26,7 @@ This course requires the following setup:
 
 \- \[Visual Studio Code](https://code.visualstudio.com/)
 
-\- **`**[**uv**](https://github.com/skyhitec/Tools-in-Data-Science-2025/blob/main/SYSTEM_REQUIREMENTS.md)**` for Python**
+\- **\[`uv` for Python](https://docs.astral.sh/uv/getting-started/installation/)**
 
 \- \[NodeJS](https://nodejs.org/) for JavaScript
 
