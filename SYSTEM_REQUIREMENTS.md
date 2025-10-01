@@ -1,704 +1,76 @@
-System Requirements
+\# 📋 System Requirements  
 
-This course requires the following:
 
 
+This course requires the following setup. Please ensure \*\*software\*\*, \*\*permissions\*\*, and \*\*website access\*\* are ready before starting.  
 
-Software to be installed on your computer.
 
-System permissions to be granted.
 
-Access to the Websites listed below.
+---
 
-Software
 
-Core tools:
 
+\## 📑 Table of Contents  
 
+1\. \[Software](#-software)  
 
-Visual Studio Code
+2\. \[System Permissions](#-system-permissions)  
 
-uv for Python
+3\. \[Websites Access](#-websites-access)  
 
-NodeJS for JavaScript
 
-Docker or Podman
 
-GitHub Copilot
+---
 
-Module-specific tools:
 
 
+\## ⚙️ Software  
 
-DBeaver
 
-DuckDB
 
-Excel
+\### 🔑 Core Tools  
 
-FFMpeg
+\- \[Visual Studio Code](https://code.visualstudio.com/)  
 
-GitHub CLI
+\- \[uv (Python)](https://docs.astral.sh/uv/)  
 
-GitHub Desktop
+\- \[NodeJS](https://nodejs.org/)  
 
-llm
+\- \[Docker](https://www.docker.com/) \*\*or\*\* \[Podman](https://podman.io/)  
 
-Lynx
+\- \[GitHub Copilot](https://github.com/features/copilot)  
 
-MuPDF
 
-OBS Studio
 
-Ollama
+\### 📦 Module-Specific Tools  
 
-OpenRefine
+\- Databases: \[DBeaver](https://dbeaver.io/), \[DuckDB](https://duckdb.org/), \[SQLiteStudio](https://sqlitestudio.pl/), \[sqlite-utils](https://sqlite-utils.datasette.io/)  
 
-Pandoc
+\- File Tools: \[FFMpeg](https://ffmpeg.org/), \[MuPDF](https://mupdf.com/), `pdftotext`, \[Pandoc](https://pandoc.org/)  
 
-pdftotext
+\- GitHub: \[GitHub CLI](https://cli.github.com/), \[GitHub Desktop](https://desktop.github.com/)  
 
-Playwright
+\- LLMs: `llm`, \[Ollama](https://ollama.com/), \[Whisper](https://github.com/openai/whisper)  
 
-QGIS
+\- Data Tools: \[OpenRefine](https://openrefine.org/), \[QGIS](https://qgis.org/)  
 
-sqlite-utils
+\- Others: \[OBS Studio](https://obsproject.com/), \[Playwright](https://playwright.dev/), \[TypeSense](https://typesense.org/), \[Lynx](https://lynx.invisible-island.net/), \[w3m](https://w3m.sourceforge.net/), \[wget](https://www.gnu.org/software/wget/), \[yt-dlp](https://github.com/yt-dlp/yt-dlp)  
 
-SQLiteStudio
 
-TypeSense
 
-w3m
+\#### 📥 Install Packages  
 
-wget
+```bash
 
-Whisper
+\# Python packages
 
-yt-dlp
+pip install <package-name>
 
-System permissions
 
-Open Developer Tools on Chrome / Edge - to use F12 or Inspect in browser
 
-Open port 8000-9000 for local development server
+\# NodeJS packages
 
-pip install and npm install to install packages
+npm install <package-name>
 
-Websites
 
-accounts.google.com
-
-agents.md
-
-ai.google.dev
-
-aipipe.org
-
-aiproxy.sanand.workers.dev
-
-aircloak.com
-
-airflow.apache.org
-
-aistudio.google.com
-
-anthropic.com
-
-api-atlas.nomic.ai
-
-api.example.com
-
-apify.com
-
-api.jina.ai
-
-api.openai.com
-
-api.open-notify.org
-
-app.example.com
-
-app.flourish.studio
-
-apple.com
-
-appsource.microsoft.com
-
-arxiv.org
-
-aspiegel.com
-
-atlas.nomic.ai
-
-azure.microsoft.com
-
-base64decode.org
-
-bbc.com
-
-beautiful-soup-4.readthedocs.io
-
-bing.com
-
-blog.gramener.com
-
-bolt.new
-
-calendar.google.com
-
-cb-prod.seek.study.iitm.ac.in
-
-cdn.jsdelivr.net
-
-cdn.openai.com
-
-chat.deepseek.com
-
-chatgpt.com
-
-chat.openai.com
-
-chat.qwen.ai
-
-claude.ai
-
-cli.github.com
-
-cline.bot
-
-cloud.google.com
-
-cmdlinetips.com
-
-codeium.com
-
-code.visualstudio.com
-
-coffee-reviews.prayashm.com
-
-colab.research.google.com
-
-console.cloud.google.com
-
-context7.com
-
-continue.dev
-
-cors-test.codehappy.devs
-
-cran.r-project.org
-
-cursor.com
-
-cyberscoop.com
-
-dashboard.ngrok.com
-
-dataforseo.com
-
-data.gov
-
-data.gov.in
-
-data.gov.ru
-
-datameet.org
-
-datasetsearch.research.google.com
-
-datasets.imdbws.com
-
-datasette.io
-
-dbeaver.io
-
-dbfopener.com
-
-deepwiki.com
-
-desktop.github.com
-
-devanshikat.github.io
-
-developer.chrome.com
-
-developer.imdb.com
-
-developer.mozilla.org
-
-developers.googleblog.com
-
-developers.google.com
-
-dev.mysql.com
-
-discourse.onlinedegree.iitm.ac.in
-
-diva-gis.org
-
-dl.acm.org
-
-docker.com
-
-docs.anthropic.com
-
-docs.astral.sh
-
-docs.cursor.com
-
-docs.docker.com
-
-docs.getdbt.com
-
-docs.github.com
-
-docs.google.com
-
-docs.klarna.com
-
-docs.kumu.io
-
-docs.lovable.dev
-
-docs.nomic.ai
-
-docs.npmjs.com
-
-docs.python.org
-
-docs.python-requests.org
-
-docs.replit.com
-
-docs.sqlalchemy.org
-
-docs.together.ai
-
-docs.windsurf.com
-
-dopiaza.org
-
-drive.google.com
-
-drive.usercontent.google.com
-
-duckdb.org
-
-elastic.co
-
-en.wikipedia.org
-
-evanhahn.github.io
-
-example.com
-
-exam.sanand.workers.dev
-
-explainxkcd.com
-
-fastapi.tiangolo.com
-
-fastapi-users.github.io
-
-ffmpeg.lav.io
-
-ffmpeg.org
-
-flourish.studio
-
-flukeout.github.io
-
-fmwconcepts.com
-
-forms.gle
-
-freecodecamp.org
-
-gemini.google
-
-gemini.google.com
-
-generativelanguage.googleapis.com
-
-geopy.readthedocs.io
-
-getdbt.com
-
-github.com
-
-github.github.com
-
-gitingest.com
-
-gitlab.com
-
-gitlens.amod.io
-
-git-lfs.github.com
-
-git-scm.com
-
-gnu.org
-
-googlecloudcommunity.com
-
-google.com
-
-gramener.com
-
-groups.google.com
-
-heroku.com
-
-howstat.com
-
-httpbin.org
-
-httpie.io
-
-httrack.com
-
-hub.docker.com
-
-hub.getdbt.com
-
-huggingface.co
-
-imagemagick.org
-
-imageoptim.com
-
-imdb.com
-
-imgs.xkcd.com
-
-img.youtube.com
-
-i.ytimg.com
-
-jamendo.com
-
-jeroenjanssens.com
-
-jina.ai
-
-jmespath.org
-
-jqlang.org
-
-jqplay.org
-
-jsoneditoronline.org
-
-json-generator.com
-
-jsonlines.org
-
-jsonlint.com
-
-jsonpath.com
-
-jsonpathfinder.com
-
-json-schema.org
-
-jsonschemavalidator.net
-
-judgments.ecourts.gov.in
-
-kaggle.com
-
-keras.io
-
-khanacademy.org
-
-kumu.io
-
-learn.microsoft.com
-
-linkedin.com
-
-llm.datasette.io
-
-llmstxt.org
-
-localhost
-
-locator-service.api.bbci.co.uk
-
-lovable.dev
-
-lxml.de
-
-lynx.invisible-island.net
-
-macstories.net
-
-magickstudio.imagemagick.org
-
-mail.google.com
-
-makersuite.google.com
-
-mapshaper.org
-
-marimo.app
-
-marimo.io
-
-marketplace.visualstudio.com
-
-marp.app
-
-matplotlib.org
-
-medium.com
-
-microsoft.com
-
-mistral.ai
-
-modelcontextprotocol.io
-
-mongodb.com
-
-mupdf.com
-
-nchandrasekharr.github.io
-
-news.ycombinator.com
-
-ngrok.com
-
-nodejs.org
-
-nominatim.org
-
-notebooklm.google.com
-
-npmjs.com
-
-numpy.org
-
-observablehq.com
-
-obsproject.com
-
-ollama.com
-
-openai.com
-
-openpolicyagent.org
-
-openrefine.org
-
-openrouter.ai
-
-ourworldindata.org
-
-packaging.python.org
-
-pages.github.com
-
-pandas.pydata.org
-
-pandoc.org
-
-parquet.apache.org
-
-pillow.readthedocs.io
-
-platform.openai.com
-
-playwright.dev
-
-pngquant.org
-
-podman.io
-
-pokeapi.co
-
-posit.co
-
-postgresql.org
-
-postman.com
-
-pre-commit.com
-
-projector.tensorflow.org
-
-promptfoo.dev
-
-pydantic-docs.helpmanual.io
-
-pymotw.com
-
-pymupdf.readthedocs.io
-
-pypi.org
-
-python-httpx.org
-
-python-visualization.github.io
-
-qgis.org
-
-quotes.toscrape.com
-
-rasagy.in
-
-rattle.togaware.com
-
-raw.githubusercontent.com
-
-rawgraphs.io
-
-realpython.com
-
-redis.io
-
-relational-data.org
-
-revealjs.com
-
-rishabhmakes.github.io
-
-roocode.com
-
-sanand0.github.io
-
-s-anand.net
-
-scikit-learn.org
-
-scikit-network.readthedocs.io
-
-screentogif.com
-
-seaborn.pydata.org
-
-seek.onlinedegree.iitm.ac.in
-
-senate.gov
-
-shapechef.com
-
-sharp.pixelplumbing.com
-
-simonwillison.net
-
-soundcloud.com
-
-sourceforge.net
-
-sqlite.org
-
-sqlitestudio.pl
-
-sqlite-utils.datasette.io
-
-sqlmodel.tiangolo.com
-
-sqlzoo.net
-
-squoosh.app
-
-stackoverflow.blog
-
-stackoverflow.com
-
-statsmodels.org
-
-stats.stackexchange.com
-
-stedolan.github.io
-
-story-b0f1c.web.app
-
-storytellingwithdata.com
-
-study.iitm.ac.in
-
-superlinked.com
-
-support.anthropic.com
-
-support.apple.com
-
-support.google.com
-
-support.microsoft.com
-
-support.office.com
-
-survey.stackoverflow.co
-
-swagger.io
-
-tableau.com
-
-tabula-py.readthedocs.io
-
-tds.s-anand.net
-
-textblob.readthedocs.io
-
-texttospeech.googleapis.com
-
-thoughtworks.com
-
-timeanddate.com
-
-tools.s-anand.net
-
-tracebit.com
-
-twitter.com
-
-typesense.org
-
-unstructured.io
-
-upload.wikimedia.org
-
-url.com
-
-us-central1-aiplatform.googleapis.com
-
-vercel.com
-
-w3m.sourceforge.net
-
-w3.org
-
-weather-broker-cdn.api.bbci.co.uk
-
-web.archive.org
-
-webmaster.petalsearch.com
-
-whitehouse.gov
-
-whois.com
-
-wikipedia.readthedocs.io
-
-windsurf.com
-
-wordlift.io
-
-xpdfreader.com
-
-yoast.com
-
-your-app.vercel.app
-
-youtu.be
-
-youtube.com
-
-youtubetranscript.com
-
-&nbsp;Previous
 
