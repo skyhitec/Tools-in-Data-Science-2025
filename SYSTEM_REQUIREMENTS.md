@@ -26,7 +26,7 @@ This course requires the following setup:
 
 \- \[Visual Studio Code](https://code.visualstudio.com/)
 
-\- `uv` for Python
+\- **`**[**uv**](https://github.com/skyhitec/Tools-in-Data-Science-2025/blob/main/SYSTEM_REQUIREMENTS.md)**` for Python**
 
 \- \[NodeJS](https://nodejs.org/) for JavaScript
 
@@ -112,367 +112,310 @@ You will need access to the following websites:
 
 
 
-\- \[accounts.google.com](https://accounts.google.com/)
-
-\- \[agents.md](https://agents.md)
-
-\- \[ai.google.dev](https://ai.google.dev/)
-
-\- \[aipipe.org](https://aipipe.org)
-
-\- \[aiproxy.sanand.workers.dev](https://aiproxy.sanand.workers.dev)
-
-\- \[aircloak.com](https://aircloak.com)
-
-\- \[airflow.apache.org](https://airflow.apache.org)
-
-\- \[aistudio.google.com](https://aistudio.google.com)
-
-\- \[anthropic.com](https://www.anthropic.com/)
-
-\- \[api-atlas.nomic.ai](https://api-atlas.nomic.ai)
-
-\- \[api.example.com](https://api.example.com)
-
-\- \[apify.com](https://apify.com)
-
-\- \[api.jina.ai](https://api.jina.ai)
-
-\- \[api.openai.com](https://api.openai.com)
-
-\- \[api.open-notify.org](http://api.open-notify.org)
-
-\- \[app.example.com](https://app.example.com)
-
-\- \[app.flourish.studio](https://app.flourish.studio)
-
-\- \[apple.com](https://www.apple.com/)
-
-\- \[appsource.microsoft.com](https://appsource.microsoft.com/)
-
-\- \[arxiv.org](https://arxiv.org/)
-
-\- \[aspiegel.com](https://aspiegel.com)
-
-\- \[atlas.nomic.ai](https://atlas.nomic.ai)
-
-\- \[azure.microsoft.com](https://azure.microsoft.com/)
-
-\- \[base64decode.org](https://www.base64decode.org/)
-
-\- \[bbc.com](https://www.bbc.com/)
-
-\- \[beautiful-soup-4.readthedocs.io](https://beautiful-soup-4.readthedocs.io/)
-
-\- \[bing.com](https://www.bing.com/)
-
-\- \[blog.gramener.com](https://blog.gramener.com/)
-
-\- \[bolt.new](https://bolt.new)
-
-\- \[calendar.google.com](https://calendar.google.com/)
-
-\- \[cb-prod.seek.study.iitm.ac.in](https://cb-prod.seek.study.iitm.ac.in/)
-
-\- \[cdn.jsdelivr.net](https://cdn.jsdelivr.net/)
-
-\- \[cdn.openai.com](https://cdn.openai.com/)
-
-\- \[chat.deepseek.com](https://chat.deepseek.com/)
-
-\- \[chatgpt.com](https://chatgpt.com/)
-
-\- \[chat.openai.com](https://chat.openai.com/)
-
-\- \[chat.qwen.ai](https://chat.qwen.ai/)
-
-\- \[claude.ai](https://claude.ai/)
-
-\- \[cli.github.com](https://cli.github.com/)
-
-\- \[cline.bot](https://cline.bot)
-
-\- \[cloud.google.com](https://cloud.google.com/)
-
-\- \[cmdlinetips.com](https://cmdlinetips.com/)
-
-\- \[codeium.com](https://codeium.com/)
-
-\- \[code.visualstudio.com](https://code.visualstudio.com/)
-
-\- \[coffee-reviews.prayashm.com](https://coffee-reviews.prayashm.com/)
-
-\- \[colab.research.google.com](https://colab.research.google.com/)
-
-\- \[console.cloud.google.com](https://console.cloud.google.com/)
-
-\- \[context7.com](https://context7.com/)
-
-\- \[continue.dev](https://continue.dev/)
-
-\- \[cors-test.codehappy.devs](https://cors-test.codehappy.devs/)
-
-\- \[cran.r-project.org](https://cran.r-project.org/)
-
-\- \[cursor.com](https://cursor.com/)
-
-\- \[cyberscoop.com](https://www.cyberscoop.com/)
-
-\- \[dashboard.ngrok.com](https://dashboard.ngrok.com/)
-
-\- \[dataforseo.com](https://dataforseo.com/)
-
-\- \[data.gov](https://data.gov/)
-
-\- \[data.gov.in](https://data.gov.in/)
-
-\- \[data.gov.ru](https://data.gov.ru/)
-
-\- \[datameet.org](https://datameet.org/)
-
-\- \[datasetsearch.research.google.com](https://datasetsearch.research.google.com/)
-
-\- \[datasets.imdbws.com](https://datasets.imdbws.com/)
-
-\- \[datasette.io](https://datasette.io/)
-
-\- \[dbeaver.io](https://dbeaver.io/)
-
-\- \[dbfopener.com](https://dbfopener.com/)
-
-\- \[deepwiki.com](https://deepwiki.com/)
-
-\- \[desktop.github.com](https://desktop.github.com/)
-
-\- \[devanshikat.github.io](https://devanshikat.github.io/)
-
-\- \[developer.chrome.com](https://developer.chrome.com/)
-
-\- \[developer.imdb.com](https://developer.imdb.com/)
-
-\- \[developer.mozilla.org](https://developer.mozilla.org/)
-
-\- \[developers.googleblog.com](https://developers.googleblog.com/)
-
-\- \[developers.google.com](https://developers.google.com/)
-
-\- \[dev.mysql.com](https://dev.mysql.com/)
-
-\- \[discourse.onlinedegree.iitm.ac.in](https://discourse.onlinedegree.iitm.ac.in/)
-
-\- \[diva-gis.org](https://diva-gis.org/)
-
-\- \[dl.acm.org](https://dl.acm.org/)
-
-\- \[docker.com](https://www.docker.com/)
-
-\- \[docs.anthropic.com](https://docs.anthropic.com/)
-
-\- \[docs.astral.sh](https://docs.astral.sh/)
-
-\- \[docs.cursor.com](https://docs.cursor.com/)
-
-\- \[docs.docker.com](https://docs.docker.com/)
-
-\- \[docs.getdbt.com](https://docs.getdbt.com/)
-
-\- \[docs.github.com](https://docs.github.com/)
-
-\- \[docs.google.com](https://docs.google.com/)
-
-\- \[docs.klarna.com](https://docs.klarna.com/)
-
-\- \[docs.kumu.io](https://docs.kumu.io/)
-
-\- \[docs.lovable.dev](https://docs.lovable.dev/)
-
-\- \[docs.nomic.ai](https://docs.nomic.ai/)
-
-\- \[docs.npmjs.com](https://docs.npmjs.com/)
-
-\- \[docs.python.org](https://docs.python.org/)
-
-\- \[docs.python-requests.org](https://docs.python-requests.org/)
-
-\- \[docs.replit.com](https://docs.replit.com/)
-
-\- \[docs.sqlalchemy.org](https://docs.sqlalchemy.org/)
-
-\- \[docs.together.ai](https://docs.together.ai/)
-
-\- \[docs.windsurf.com](https://docs.windsurf.com/)
-
-\- \[dopiaza.org](https://dopiaza.org/)
-
-\- \[drive.google.com](https://drive.google.com/)
-
-\- \[drive.usercontent.google.com](https://drive.usercontent.google.com/)
-
-\- \[duckdb.org](https://duckdb.org/)
-
-\- \[elastic.co](https://elastic.co/)
-
-\- \[en.wikipedia.org](https://en.wikipedia.org/)
-
-\- \[evanhahn.github.io](https://evanhahn.github.io/)
-
-\- \[example.com](https://example.com/)
-
-\- \[exam.sanand.workers.dev](https://exam.sanand.workers.dev/)
-
-\- \[explainxkcd.com](https://www.explainxkcd.com/)
-
-\- \[fastapi.tiangolo.com](https://fastapi.tiangolo.com/)
-
-\- \[fastapi-users.github.io](https://fastapi-users.github.io/)
-
-\- \[ffmpeg.lav.io](https://ffmpeg.lav.io/)
-
-\- \[ffmpeg.org](https://ffmpeg.org/)
-
-\- \[flourish.studio](https://flourish.studio/)
-
-\- \[flukeout.github.io](https://flukeout.github.io/)
-
-\- \[fmwconcepts.com](https://fmwconcepts.com/)
-
-\- \[forms.gle](https://forms.gle/)
-
-\- \[freecodecamp.org](https://www.freecodecamp.org/)
-
-\- \[gemini.google](https://gemini.google/)
-
-\- \[gemini.google.com](https://gemini.google.com/)
-
-\- \[generativelanguage.googleapis.com](https://generativelanguage.googleapis.com/)
-
-\- \[geopy.readthedocs.io](https://geopy.readthedocs.io/)
-
-\- \[getdbt.com](https://getdbt.com/)
-
-\- \[github.com](https://github.com/)
-
-\- \[github.github.com](https://github.github.com/)
-
-\- \[gitingest.com](https://gitingest.com/)
-
-\- \[gitlab.com](https://gitlab.com/)
-
-\- \[gitlens.amod.io](https://gitlens.amod.io/)
-
-\- \[git-lfs.github.com](https://git-lfs.github.com/)
-
-\- \[git-scm.com](https://git-scm.com/)
-
-\- \[gnu.org](https://www.gnu.org/)
-
-\- \[googlecloudcommunity.com](https://googlecloudcommunity.com/)
-
-\- \[google.com](https://google.com/)
-
-\- \[gramener.com](https://gramener.com/)
-
-\- \[groups.google.com](https://groups.google.com/)
-
-\- \[heroku.com](https://heroku.com/)
-
-\- \[howstat.com](https://howstat.com/)
-
-\- \[httpbin.org](https://httpbin.org/)
-
-\- \[httpie.io](https://httpie.io/)
-
-\- \[httrack.com](https://www.httrack.com/)
-
-\- \[hub.docker.com](https://hub.docker.com/)
-
-\- \[hub.getdbt.com](https://hub.getdbt.com/)
-
-\- \[huggingface.co](https://huggingface.co/)
-
-\- \[imagemagick.org](https://imagemagick.org/)
-
-\- \[imageoptim.com](https://imageoptim.com/)
-
-\- \[imdb.com](https://www.imdb.com/)
-
-\- \[imgs.xkcd.com](https://imgs.xkcd.com/)
-
-\- \[img.youtube.com](https://img.youtube.com/)
-
-\- \[i.ytimg.com](https://i.ytimg.com/)
-
-\- \[jamendo.com](https://www.jamendo.com/)
-
-\- \[jeroenjanssens.com](https://jeroenjanssens.com/)
-
-\- \[jina.ai](https://jina.ai/)
-
-\- \[jmespath.org](https://jmespath.org/)
-
-\- \[jqlang.org](https://jqlang.org/)
-
-\- \[jqplay.org](https://jqplay.org/)
-
-\- \[jsoneditoronline.org](https://jsoneditoronline.org/)
-
-\- \[json-generator.com](https://json-generator.com/)
-
-\- \[jsonlines.org](https://jsonlines.org/)
-
-\- \[jsonlint.com](https://jsonlint.com/)
-
-\- \[jsonpath.com](https://jsonpath.com/)
-
-\- \[jsonpathfinder.com](https://jsonpathfinder.com/)
-
-\- \[json-schema.org](https://json-schema.org/)
-
-\- \[jsonschemavalidator.net](https://jsonschemavalidator.net/)
-
-\- \[judgments.ecourts.gov.in](https://judgments.ecourts.gov.in/)
-
-\- \[kaggle.com](https://kaggle.com/)
-
-\- \[keras.io](https://keras.io/)
-
-\- \[khanacademy.org](https://www.khanacademy.org/)
-
-\- \[kumu.io](https://kumu.io/)
-
-\- \[learn.microsoft.com](https://learn.microsoft.com/)
-
-\- \[linkedin.com](https://linkedin.com/)
-
-\- \[llm.datasette.io](https://llm.datasette.io/)
-
-\- \[llmstxt.org](https://llmstxt.org/)
-
-\- \[localhost](http://localhost/)
-
-\- \[locator-service.api.bbci.co.uk](https://locator-service.api.bbci.co.uk/)
-
-\- \[lovable.dev](https://lovable.dev/)
-
-\- \[lxml.de](https://lxml.de/)
-
-
-
-> ⚠️ \*\*Note:\*\* For brevity, the full list of websites continues similarly. Ensure access to all required sites before starting.
-
-
-
----
-
-
-
-\## How to Use This File
-
-1\. Clone the repository:  
-
-&nbsp;  ```bash
-
-&nbsp;  git clone <your-repo-link>
-
-
-
+1. **accounts.google.com**
+2. **agents.md**
+3. **ai.google.dev**
+4. **aipipe.org**
+5. **aiproxy.sanand.workers.dev**
+6. **aircloak.com**
+7. **airflow.apache.org**
+8. **aistudio.google.com**
+9. **anthropic.com**
+10. **api-atlas.nomic.ai**
+11. **api.example.com**
+12. **apify.com**
+13. **api.jina.ai**
+14. **api.openai.com**
+15. **api.open-notify.org**
+16. **app.example.com**
+17. **app.flourish.studio**
+18. **apple.com**
+19. **appsource.microsoft.com**
+20. **arxiv.org**
+21. **aspiegel.com**
+22. **atlas.nomic.ai**
+23. **azure.microsoft.com**
+24. **base64decode.org**
+25. **bbc.com**
+26. **beautiful-soup-4.readthedocs.io**
+27. **bing.com**
+28. **blog.gramener.com**
+29. **bolt.new**
+30. **calendar.google.com**
+31. **cb-prod.seek.study.iitm.ac.in**
+32. **cdn.jsdelivr.net**
+33. **cdn.openai.com**
+34. **chat.deepseek.com**
+35. **chatgpt.com**
+36. **chat.openai.com**
+37. **chat.qwen.ai**
+38. **claude.ai**
+39. **cli.github.com**
+40. **cline.bot**
+41. **cloud.google.com**
+42. **cmdlinetips.com**
+43. **codeium.com**
+44. **code.visualstudio.com**
+45. **coffee-reviews.prayashm.com**
+46. **colab.research.google.com**
+47. **console.cloud.google.com**
+48. **context7.com**
+49. **continue.dev**
+50. **cors-test.codehappy.devs**
+51. **cran.r-project.org**
+52. **cursor.com**
+53. **cyberscoop.com**
+54. **dashboard.ngrok.com**
+55. **dataforseo.com**
+56. **data.gov**
+57. **data.gov.in**
+58. **data.gov.ru**
+59. **datameet.org**
+60. **datasetsearch.research.google.com**
+61. **datasets.imdbws.com**
+62. **datasette.io**
+63. **dbeaver.io**
+64. **dbfopener.com**
+65. **deepwiki.com**
+66. **desktop.github.com**
+67. **devanshikat.github.io**
+68. **developer.chrome.com**
+69. **developer.imdb.com**
+70. **developer.mozilla.org**
+71. **developers.googleblog.com**
+72. **developers.google.com**
+73. **dev.mysql.com**
+74. **discourse.onlinedegree.iitm.ac.in**
+75. **diva-gis.org**
+76. **dl.acm.org**
+77. **docker.com**
+78. **docs.anthropic.com**
+79. **docs.astral.sh**
+80. **docs.cursor.com**
+81. **docs.docker.com**
+82. **docs.getdbt.com**
+83. **docs.github.com**
+84. **docs.google.com**
+85. **docs.klarna.com**
+86. **docs.kumu.io**
+87. **docs.lovable.dev**
+88. **docs.nomic.ai**
+89. **docs.npmjs.com**
+90. **docs.python.org**
+91. **docs.python-requests.org**
+92. **docs.replit.com**
+93. **docs.sqlalchemy.org**
+94. **docs.together.ai**
+95. **docs.windsurf.com**
+96. **dopiaza.org**
+97. **drive.google.com**
+98. **drive.usercontent.google.com**
+99. **duckdb.org**
+100. **elastic.co**
+101. **en.wikipedia.org**
+102. **evanhahn.github.io**
+103. **example.com**
+104. **exam.sanand.workers.dev**
+105. **explainxkcd.com**
+106. **fastapi.tiangolo.com**
+107. **fastapi-users.github.io**
+108. **ffmpeg.lav.io**
+109. **ffmpeg.org**
+110. **flourish.studio**
+111. **flukeout.github.io**
+112. **fmwconcepts.com**
+113. **forms.gle**
+114. **freecodecamp.org**
+115. **gemini.google**
+116. **gemini.google.com**
+117. **generativelanguage.googleapis.com**
+118. **geopy.readthedocs.io**
+119. **getdbt.com**
+120. **github.com**
+121. **github.github.com**
+122. **gitingest.com**
+123. **gitlab.com**
+124. **gitlens.amod.io**
+125. **git-lfs.github.com**
+126. **git-scm.com**
+127. **gnu.org**
+128. **googlecloudcommunity.com**
+129. **google.com**
+130. **gramener.com**
+131. **groups.google.com**
+132. **heroku.com**
+133. **howstat.com**
+134. **httpbin.org**
+135. **httpie.io**
+136. **httrack.com**
+137. **hub.docker.com**
+138. **hub.getdbt.com**
+139. **huggingface.co**
+140. **imagemagick.org**
+141. **imageoptim.com**
+142. **imdb.com**
+143. **imgs.xkcd.com**
+144. **img.youtube.com**
+145. **i.ytimg.com**
+146. **jamendo.com**
+147. **jeroenjanssens.com**
+148. **jina.ai**
+149. **jmespath.org**
+150. **jqlang.org**
+151. **jqplay.org**
+152. **jsoneditoronline.org**
+153. **json-generator.com**
+154. **jsonlines.org**
+155. **jsonlint.com**
+156. **jsonpath.com**
+157. **jsonpathfinder.com**
+158. **json-schema.org**
+159. **jsonschemavalidator.net**
+160. **judgments.ecourts.gov.in**
+161. **kaggle.com**
+162. **keras.io**
+163. **khanacademy.org**
+164. **kumu.io**
+165. **learn.microsoft.com**
+166. **linkedin.com**
+167. **llm.datasette.io**
+168. **llmstxt.org**
+169. **localhost**
+170. **locator-service.api.bbci.co.uk**
+171. **lovable.dev**
+172. **lxml.de**
+173. **lynx.invisible-island.net**
+174. **macstories.net**
+175. **magickstudio.imagemagick.org**
+176. **mail.google.com**
+177. **makersuite.google.com**
+178. **mapshaper.org**
+179. **marimo.app**
+180. **marimo.io**
+181. **marketplace.visualstudio.com**
+182. **marp.app**
+183. **matplotlib.org**
+184. **medium.com**
+185. **microsoft.com**
+186. **mistral.ai**
+187. **modelcontextprotocol.io**
+188. **mongodb.com**
+189. **mupdf.com**
+190. **nchandrasekharr.github.io**
+191. **news.ycombinator.com**
+192. **ngrok.com**
+193. **nodejs.org**
+194. **nominatim.org**
+195. **notebooklm.google.com**
+196. **npmjs.com**
+197. **numpy.org**
+198. **observablehq.com**
+199. **obsproject.com**
+200. **ollama.com**
+201. **openai.com**
+202. **openpolicyagent.org**
+203. **openrefine.org**
+204. **openrouter.ai**
+205. **ourworldindata.org**
+206. **packaging.python.org**
+207. **pages.github.com**
+208. **pandas.pydata.org**
+209. **pandoc.org**
+210. **parquet.apache.org**
+211. **pillow.readthedocs.io**
+212. **platform.openai.com**
+213. **playwright.dev**
+214. **pngquant.org**
+215. **podman.io**
+216. **pokeapi.co**
+217. **posit.co**
+218. **postgresql.org**
+219. **postman.com**
+220. **pre-commit.com**
+221. **projector.tensorflow.org**
+222. **promptfoo.dev**
+223. **pydantic-docs.helpmanual.io**
+224. **pymotw.com**
+225. **pymupdf.readthedocs.io**
+226. **pypi.org**
+227. **python-httpx.org**
+228. **python-visualization.github.io**
+229. **qgis.org**
+230. **quotes.toscrape.com**
+231. **rasagy.in**
+232. **rattle.togaware.com**
+233. **raw.githubusercontent.com**
+234. **rawgraphs.io**
+235. **realpython.com**
+236. **redis.io**
+237. **relational-data.org**
+238. **revealjs.com**
+239. **rishabhmakes.github.io**
+240. **roocode.com**
+241. **sanand0.github.io**
+242. **s-anand.net**
+243. **scikit-learn.org**
+244. **scikit-network.readthedocs.io**
+245. **screentogif.com**
+246. **seaborn.pydata.org**
+247. **seek.onlinedegree.iitm.ac.in**
+248. **senate.gov**
+249. **shapechef.com**
+250. **sharp.pixelplumbing.com**
+251. **simonwillison.net**
+252. **soundcloud.com**
+253. **sourceforge.net**
+254. **sqlite.org**
+255. **sqlitestudio.pl**
+256. **sqlite-utils.datasette.io**
+257. **sqlmodel.tiangolo.com**
+258. **sqlzoo.net**
+259. **squoosh.app**
+260. **stackoverflow.blog**
+261. **stackoverflow.com**
+262. **statsmodels.org**
+263. **stats.stackexchange.com**
+264. **stedolan.github.io**
+265. **story-b0f1c.web.app**
+266. **storytellingwithdata.com**
+267. **study.iitm.ac.in**
+268. **superlinked.com**
+269. **support.anthropic.com**
+270. **support.apple.com**
+271. **support.google.com**
+272. **support.microsoft.com**
+273. **support.office.com**
+274. **survey.stackoverflow.co**
+275. **swagger.io**
+276. **tableau.com**
+277. **tabula-py.readthedocs.io**
+278. **tds.s-anand.net**
+279. **textblob.readthedocs.io**
+280. **texttospeech.googleapis.com**
+281. **thoughtworks.com**
+282. **timeanddate.com**
+283. **tools.s-anand.net**
+284. **tracebit.com**
+285. **twitter.com**
+286. **typesense.org**
+287. **unstructured.io**
+288. **upload.wikimedia.org**
+289. **url.com**
+290. **us-central1-aiplatform.googleapis.com**
+291. **vercel.com**
+292. **w3m.sourceforge.net**
+293. **w3.org**
+294. **weather-broker-cdn.api.bbci.co.uk**
+295. **web.archive.org**
+296. **webmaster.petalsearch.com**
+297. **whitehouse.gov**
+298. **whois.com**
+299. **wikipedia.readthedocs.io**
+300. **windsurf.com**
+301. **wordlift.io**
+302. **xpdfreader.com**
+303. **yoast.com**
+304. **your-app.vercel.app**
+305. **youtu.be**
+306. **youtube.com**
+307. **youtubetranscript.com**
