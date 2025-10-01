@@ -7,20 +7,22 @@ This course focuses on the popular tools used in a complete data science workflo
 
 ---
 
-## Course Modules and Structure
+## Course Modules and Structure (8 Modules)
 
-The repository is structured according to the 7 core modules of the course:
+The repository is structured according to the 8 modules and 2 projects of the course syllabus:
 
 | Folder | Module Topic | Key Focus |
 | :---: | :--- | :--- |
 | **01** | Development Tools | Essential tools and concepts for building models and applications. |
 | **02** | Deployment Tools | Methods and tools for publishing what you build to production. |
-| **03** | Large Language Models | Integrating LLMs to streamline work and enhance application intelligence. |
-| **04** | Data Sourcing | Code for obtaining data from the web, files, and databases. |
-| **05** | Data Preparation | Techniques for cleaning up data and converting inputs to the correct format. |
-| **06** | Data Analysis | Code for discovering surprising insights within the data. |
-| **07** | Data Visualization | Communicating insights effectively as visual stories. |
-| **Projects** | Take-Home Projects | Includes all code and documentation for the 2 remote take-home projects. |
+| **03** | AI Coding | Using Generative AI tools to write code faster and more efficiently. |
+| **04** | Large Language Models | Leveraging LLMs for apps that use AI. |
+| **Project 1** | Take-Home Project 1 | Code and documentation for the first take-home project. |
+| **05** | Data Sourcing | Getting data from the web, files, databases, and scraping. |
+| **06** | Data Preparation | Techniques for cleaning up and transforming data into the correct format. |
+| **07** | Data Analysis | Analysis including statistics, geospatial, and network analysis. |
+| **Project 2** | Take-Home Project 2 | Code and documentation for the second take-home project. |
+| **08** | Data Visualization | Communicating insights using charts, slides, and narratives. |
 
 ---
 
